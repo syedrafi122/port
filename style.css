@@ -484,7 +484,7 @@ margin-top:10%;
 /*footer*/
 
 footer{
-	position: fixed;
+	position: static;
 	bottom: 0;
 }
 
